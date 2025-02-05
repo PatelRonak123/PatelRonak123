@@ -1,4 +1,5 @@
-[![MasterHead]([![MasterHead]https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg]]
+[![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg
+)]
 <h1 align="center">Hi 👋, I'm Ronak Patel</h1>
 <h3 align="center">Collaborate, Code, and Innovate Together</h3>
 
