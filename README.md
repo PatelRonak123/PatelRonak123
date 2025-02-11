@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakpatel&label=Profile%20views&color=0e75b6&style=flat" alt="ronakpatel" /> </p>
 
-- 🔭 I’m currently working on [IntraVia](https://github.com/PatelRonak123/intra-via)
 
 - 🌱 I’m currently learning **the MERN Stack and AI/ML**
 
